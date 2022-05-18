@@ -8,7 +8,7 @@ import javax.transaction.Transactional;
 
 @Service
 public class BoardService {
-
+//
     private BoardRepository repository;
 
     public BoardService(BoardRepository repository){
